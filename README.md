@@ -3,6 +3,7 @@
 ## 📊 Project Overview
 This project analyzes sales and customer data using Power BI.  
 It includes insights on revenue, most ordered products, product line contribution, and customer distribution.  
+(datasets_dashboard1.png)
 
 ## 📂 Repository Contents
 - Dashboard_Screenshots → Power BI dashboard visuals  
